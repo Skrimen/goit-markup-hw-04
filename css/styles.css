@@ -430,8 +430,10 @@ color: #404bbf;
   background-color: #2e2f42;
 }
 
-
-
+.footer-container {
+  display: flex;
+  align-items: baseline;
+}
 
 .logo-two {
   text-decoration: none;
