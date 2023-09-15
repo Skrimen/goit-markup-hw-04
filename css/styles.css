@@ -474,7 +474,7 @@ color: #404bbf;
   list-style: none;
   display: flex;
   gap: 16px;
-  
+  padding: 0;
 }
 
 .social-media-li {
